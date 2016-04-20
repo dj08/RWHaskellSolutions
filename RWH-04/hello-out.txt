@@ -1,0 +1,5 @@
+Hello from input file
+How
+are
+you
+o output file?
